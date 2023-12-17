@@ -1,3 +1,2 @@
-git add .
-git commit -m "commit my site"
+git commit -am "commit my site"
 git push
