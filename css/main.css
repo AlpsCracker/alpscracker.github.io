@@ -84,7 +84,7 @@ body {
   color: #eaeaea;
   font-size: 16px;
   line-height: 1.5;
-  font-family: Consolas, "Microsoft YaHei", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Fixedsys, Consolas, "STZhongsong", "Microsoft Yahei", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
@@ -119,7 +119,7 @@ li {
 */
 header {
   background: rgba(0, 0, 0, 0.1);
-  border-bottom: 1px dashed #b5e853;
+  border-bottom: 1px dashed #00d2b0;
   padding: 20px;
   margin: 0 0 40px 0;
 }
@@ -138,8 +138,8 @@ header h1 {
   margin: 0;
   text-align: center;
   font-weight: bold;
-  font-family: Consolas, "Microsoft YaHei", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  font-family: Fixedsys, Consolas, "STZhongsong", "Microsoft Yahei", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #00d2b0;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
@@ -169,8 +169,8 @@ h4,
 h5,
 h6 {
   font-weight: normal;
-  font-family: Consolas, "Microsoft YaHei", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  font-family: Fixedsys, Consolas, "STZhongsong", "Microsoft Yahei", "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  color: #00d2b0;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(181, 232, 83, 0.1), 0 0 10px rgba(181, 232, 83, 0.1);
 }
@@ -302,7 +302,7 @@ hr {
    a, a:hover, a:visited
 */
 a {
-  color: #63c0f5;
+  color: #9005c6;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
