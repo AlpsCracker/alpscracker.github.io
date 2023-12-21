@@ -158,6 +158,10 @@ header h2 {
   -webkit-font-smoothing: antialiased;
 }
 
+#main_content ul p {
+  display: none;
+}
+
 section img {
   max-width: 100%;
 }
@@ -181,6 +185,8 @@ h6 {
 
 #main_content h2 {
   font-size: 24px;
+  margin-top: 40px;
+  margin-bottom: 5px;
 }
 
 #main_content h3 {
