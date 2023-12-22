@@ -3,13 +3,23 @@
   <channel>
     <title>Alvin-Blog</title>
     <description>Travel on into the dawn.</description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     <author>
       <name>Alvin</name>
       <email></email>
       <uri>alpscracker.github.io</uri>
     </author>
+    
+      <item>
+        <title>年终总结</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/1.jpg&quot; alt=&quot;有帮助的截图&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 23 Dec 2023 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000//%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93</link>
+        <link href="http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93"/>
+        <guid isPermaLink="true">http://localhost:4000/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93</guid>
+      </item>
     
       <item>
         <title>孔雀东南飞</title>
@@ -81,9 +91,9 @@
 &lt;p&gt;两家求合葬，合葬华山傍。东西植松柏，左右种梧桐。枝枝相覆盖，叶叶相交通。中有双飞鸟，自名为鸳鸯。仰头相向鸣，夜夜达五更。行人驻足听，寡妇起彷徨。多谢后世人，戒之慎勿忘。&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate>
-        <link>//%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E</link>
-        <link href="/%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E"/>
-        <guid isPermaLink="true">/%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E</guid>
+        <link>http://localhost:4000//%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E</link>
+        <link href="http://localhost:4000/%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E"/>
+        <guid isPermaLink="true">http://localhost:4000/%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E</guid>
       </item>
     
       <item>
@@ -94,9 +104,9 @@
 惆怅孤帆连夜发，送行淡月微云。尊前不用翠眉颦。人生如逆旅，我亦是行人。&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Dec 2023 00:00:00 +0800</pubDate>
-        <link>//%E4%B8%B4%E6%B1%9F%E4%BB%99</link>
-        <link href="/%E4%B8%B4%E6%B1%9F%E4%BB%99"/>
-        <guid isPermaLink="true">/%E4%B8%B4%E6%B1%9F%E4%BB%99</guid>
+        <link>http://localhost:4000//%E4%B8%B4%E6%B1%9F%E4%BB%99</link>
+        <link href="http://localhost:4000/%E4%B8%B4%E6%B1%9F%E4%BB%99"/>
+        <guid isPermaLink="true">http://localhost:4000/%E4%B8%B4%E6%B1%9F%E4%BB%99</guid>
       </item>
     
       <item>
@@ -254,9 +264,9 @@
 &lt;p&gt;Wake up.&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Dec 2023 00:00:00 +0800</pubDate>
-        <link>//End-Poem</link>
-        <link href="/End-Poem"/>
-        <guid isPermaLink="true">/End-Poem</guid>
+        <link>http://localhost:4000//End-Poem</link>
+        <link href="http://localhost:4000/End-Poem"/>
+        <guid isPermaLink="true">http://localhost:4000/End-Poem</guid>
       </item>
     
   </channel>
